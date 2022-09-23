@@ -1,0 +1,14 @@
+# ugglite-user 7.1.2 N2G47H V11.0.3.0.NDFMIXM release-keys
+- manufacturer: xiaomi
+- platform: msm8937
+- codename: ugglite
+- flavor: ugglite-user
+- release: 7.1.2
+- id: N2G47H
+- incremental: V11.0.3.0.NDFMIXM
+- tags: release-keys
+- fingerprint: xiaomi/ugglite/ugglite:7.1.2/N2G47H/V11.0.3.0.NDFMIXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: ugglite-user-7.1.2-N2G47H-V11.0.3.0.NDFMIXM-release-keys
+- repo: xiaomi_ugglite_dump626
